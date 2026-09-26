@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4fdadb2e6e3a4e32bb2f0fcd4ccaf18, type: 3}
   m_Name: TalkingBoxAgentConfig 1
   m_EditorClassIdentifier: ElevenLabs.Agents.Samples.GettingStarted::ElevenLabs.Agents.Samples.GettingStarted.TalkingBoxAgentConfig
-  agentId: 
+  agentId: agent_4301m3e7t5qfffkb26yn6gwydg03
